@@ -1,6 +1,6 @@
 # Name:Rokhaya Diagne
 #Date:10/24/2025
-#This program implements the "Match Coins" coin toss game for two players
+#This program creates the "Match Coins" coin toss game for two players
 # using a 'Coin' class, tracking each player's coin count and reporting
 # the results of each round until the user chooses to stop.
 
